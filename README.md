@@ -36,7 +36,7 @@ I build full-stack products end to end, from PHP and Java EE to Flutter and Reac
 
 - 🔬 Deep-diving **RAG** — chunking strategies, embeddings, hybrid retrieval, evaluation
 - ⛓️ Prototyping **LLM agents** with **LangChain**
-- 🧠 Applying **GenAI** to real products — e.g. AI-driven valuation anomaly detection in [fcr-scs](https://github.com/ChamHerman/fcr-scs)
+- 🧠 Applying **GenAI** to real products
 - 👀 Exploring where classical **CV** meets modern ML pipelines
 
 ---
@@ -47,8 +47,6 @@ I build full-stack products end to end, from PHP and Java EE to Flutter and Reac
 
 <img src="https://skillicons.dev/icons?i=java,py,ts,js,dart,php,cpp,mysql&theme=dark" alt="Languages" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,supabase,postgres,aws,git&theme=dark" alt="Frameworks & tools" />
-
-<br/><br/>
 
 **AI / GenAI**
 
@@ -99,9 +97,6 @@ I build full-stack products end to end, from PHP and Java EE to Flutter and Reac
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ChamHerman&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamHerman&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://streak-stats.demolab.com/?user=ChamHerman&theme=tokyonight&hide_border=true&border_radius=6" alt="GitHub streak" width="70%" /></td>
   </tr>
 </table>
 

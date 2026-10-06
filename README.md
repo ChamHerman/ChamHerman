@@ -82,10 +82,10 @@ I build full-stack products end to end, from PHP and Java EE to Flutter and Reac
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[FCR-SCS](https://github.com/ChamHerman/fcr-scs)** | Decentralized, AI-driven governance platform modernizing statutory land acquisition with valuation anomaly detection | Solidity · Ethereum · React 19 · TypeScript · Express |
-| **[mango-ripeness-grading](https://github.com/ChamHerman/mango-ripeness-grading)** | Classical CV suite for non-destructive mango grading & real-time multi-fruit counting (98.61% accuracy, ~32.5 ms) | Python · OpenCV (CUDA/OpenCL) · scikit-learn · Streamlit |
-| **[blindedoos-webapp-php](https://github.com/ChamHerman/blindedoos-webapp-php)** | Secure-by-default blind-box collectibles e-commerce platform | PHP 8.1 · MySQL (PDO) · Stripe · CSRF protection |
+| **[Mango Ripeness Grading](https://github.com/ChamHerman/mango-ripeness-grading)** | Classical CV suite for non-destructive mango grading & real-time multi-fruit counting (98.61% accuracy, ~32.5 ms) | Python · OpenCV (CUDA/OpenCL) · scikit-learn · Streamlit |
+| **[BlindeDoos](https://github.com/ChamHerman/blindedoos-webapp-php)** | Secure-by-default blind-box collectibles e-commerce platform | PHP 8.1 · MySQL (PDO) · Stripe · CSRF protection |
 | **[X-FatHub](https://github.com/ChamHerman/X-FatHub)** | Cross-platform fitness app — activity tracking, class booking, community feed | Flutter · Dart · Supabase · Stripe Webhooks |
-| **[harveyherman-webapp-java](https://github.com/ChamHerman/harveyherman-webapp-java)** | Java EE e-commerce — shop appliances, manage orders, track sales | Java EE · Servlets/JSP · GlassFish · MySQL |
+| **[HarveyHerman](https://github.com/ChamHerman/harveyherman-webapp-java)** | Java EE e-commerce — shop appliances, manage orders, track sales | Java EE · Servlets/JSP · GlassFish · MySQL |
 
 ---
 
